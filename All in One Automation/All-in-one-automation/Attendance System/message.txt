@@ -1,0 +1,1 @@
+Hello ${PERSON_NAME}, Your attendance for today has been updated for ID: ${ID}. Have a wonderful day ahead.
