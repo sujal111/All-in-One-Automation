@@ -4,7 +4,7 @@
 
 # Hi Buddy!! Welcome 👋
 
-## Project Name: Dance Home Page
+## Project Name: All in One Automation
 
 ---
 
@@ -21,35 +21,32 @@ Smart Contract having features such as PRODUCT NAME, BATCH NUMBER,TIME-STAMP EXP
 ALL IN ONE AUTOMATION WHICH INCLUDES CAPTURING OF IMAGES AND DETECTING THE TEMPERATURE OF THE BODY ABOVE ANY STANDARD. BROADLY, WE HAVE ATTENDANCE MANAGEMENT PORTAL FOR CORPORATE SECTORS WHICH INCLUDES FACE MASK DETECTION, IMAGE RECOGNITION AND VOICE DETECTION.
 SUPPLY CHAIN WAS HIT DUE TO COVID-19. ETHEREUM BASED SMART CONTRACT AND TRANSACTION ARE CREATED FOR FLEXIBILITY AND ALSO DECENTRALISED EDUCATIONAL APP IS CREATED FOR BOOSTING TEACHING-LEARNING PROCESS.
 
-Challenges we ran into
-There was a hurdle in creating this model as we weren't able to get the dataset for our model.
-Getting proper accuracy was another rugged work which took never-ending time to complete.
-Coding the smart contract with solidity for the supply chain was a brainstorming task as there were some more 1700 files generated due to js and bootstrap together.
-4)Deploying into matic network was another resilient task as it took lot of time to correct and link different files together.**
-
 ---
 
 ## 🛠 Technologies used
 
 > HTML
-
 > CSS
+> JS
+> Machine Learning
+> Blockchain
 
 ---
 
 ## Challenges in this Project
 
-> learned about positioning
+> There was a hurdle in creating this model as we weren't able to get the dataset for our model.
 
-> learned about flexbox
+> Getting proper accuracy was another rugged work which took never-ending time to complete.
 
-> got good understanding of HTML & CSS
+> Coding the smart contract with solidity for the supply chain was a brainstorming task as there were some more 1700 files generated due to js and bootstrap together.
+
+> Deploying into matic network was another resilient task as it took lot of time to correct and link different files together
+
+
 
 ---
 
-## Time taken to Finish this project
-
-> I have taken 2 hours to complete this project.
 
 ## Feedback
 
@@ -59,4 +56,4 @@ Coding the smart contract with solidity for the supply chain was a brainstorming
 
 ## Project Screenshot
 
-> ![Dance Home Page](screenshot.png)
+> ![..](screenshot.png)
